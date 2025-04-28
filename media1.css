@@ -1,0 +1,89 @@
+@media screen and (min-width: 200px) and (max-width: 575px){
+  
+header{
+	flex-direction: column;
+	align-items: stretch;
+	gap: 15px;
+	padding: 10px;
+}
+.headerleft{
+	justify-content: center;
+}
+.lg{
+	width: 10%;
+	margin: 0 auto;
+
+}
+.logo{
+	padding: 5px;
+}
+.addres{
+	padding: 10px;
+}
+.addres p{
+	font-size: 12px;
+}
+.addres h3{
+	font-size: 15px;
+}
+.header-search button{
+	padding: 10px;
+
+}
+.header-buton{
+	position: fixed;
+	background-color: white;
+	width: 100%;
+	bottom: 0px;
+	margin-right: 0px;
+	justify-content: center;
+}
+
+.orderbanner{
+	flex-direction: column;
+	padding: 10px;
+}
+.category-items{
+	flex-basis: 25%;
+}
+.product-items{
+	flex-basis: 49%;
+}
+.product{
+	padding: 30px 10px;
+}
+.footer{
+	padding-top: 0px;
+}
+.footer-mid-row1{
+	flex-direction: column;
+	padding: 10px;
+}
+.footer-mid-row2{
+	flex-direction: column;
+	gap: 20px;
+}
+.footer-mid-row3 {
+	padding: 0px 10px;
+}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	
+
+
+
+
